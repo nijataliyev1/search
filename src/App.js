@@ -1,7 +1,7 @@
 import './App.css';
 import { useState,useEffect } from 'react';
 
-
+   
 function App() {
   const [data,setData] = useState([])
   const [searchName, setSearchName] = useState("")
